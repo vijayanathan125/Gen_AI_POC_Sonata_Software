@@ -1,0 +1,12 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  background-color: #314051;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  padding: 0;
+}

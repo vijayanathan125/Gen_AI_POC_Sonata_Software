@@ -1,0 +1,39 @@
+/* Home.css */
+ 
+.home-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+   
+  .description {
+    margin-top: 20px;
+  }
+   
+  .features {
+    margin-top: 40px;
+  }
+   
+  .features h2 {
+    color: #007bff; /* Set your preferred color */
+  }
+   
+  .features ul {
+    list-style-type: none;
+    padding: 0;
+  }
+   
+  .features li {
+    margin-top: 10px;
+  }
+   
+  /* Add more styles as needed */
+  .chatbox-container {
+    display: flex;
+    /* flex-direction: column; */
+    height: 100vh;
+    width: 100%; /* Adjust the height as needed */
+    background-color: aliceblue;
+  }
+   

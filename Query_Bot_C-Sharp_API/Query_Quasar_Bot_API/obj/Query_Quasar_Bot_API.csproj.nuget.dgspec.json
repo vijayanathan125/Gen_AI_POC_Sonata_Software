@@ -1,0 +1,185 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\v_shi\\Desktop\\Sonata Software\\Learning\\Projects\\Gen AI POC\\Query_Bot_C-Sharp_API\\Query_Quasar_Bot_API\\Query_Quasar_Bot_API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\v_shi\\Desktop\\Sonata Software\\Learning\\Projects\\Gen AI POC\\Query_Bot_C-Sharp_API\\Query_Quasar_Bot_API\\Query_Quasar_Bot_API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\v_shi\\Desktop\\Sonata Software\\Learning\\Projects\\Gen AI POC\\Query_Bot_C-Sharp_API\\Query_Quasar_Bot_API\\Query_Quasar_Bot_API.csproj",
+        "projectName": "Query_Quasar_Bot_API",
+        "projectPath": "C:\\Users\\v_shi\\Desktop\\Sonata Software\\Learning\\Projects\\Gen AI POC\\Query_Bot_C-Sharp_API\\Query_Quasar_Bot_API\\Query_Quasar_Bot_API.csproj",
+        "packagesPath": "C:\\Users\\v_shi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\v_shi\\Desktop\\Sonata Software\\Learning\\Projects\\Gen AI POC\\Query_Bot_C-Sharp_API\\Query_Quasar_Bot_API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\v_shi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Aspose.Slides-Cloud": {
+              "target": "Package",
+              "version": "[24.1.0, )"
+            },
+            "Aspose.Slides.NET": {
+              "target": "Package",
+              "version": "[24.1.0, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.19.1, )"
+            },
+            "DocX": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "DotNetCore.NPOI": {
+              "target": "Package",
+              "version": "[1.2.3, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Forge.OpenAI": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.AspNet.Cors": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "OpenAI": {
+              "target": "Package",
+              "version": "[1.10.0, )"
+            },
+            "OpenAI.API": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "OpenAI.ChatGPT": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "OpenNLP.NET": {
+              "target": "Package",
+              "version": "[1.9.4.1, )"
+            },
+            "Pythia.Cli.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Pythia.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Pythia.Core.Plugin": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Universe.OpenAI.API": {
+              "target": "Package",
+              "version": "[0.9.5, )"
+            },
+            "itext.pdfhtml": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "itext7.pdfhtml": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

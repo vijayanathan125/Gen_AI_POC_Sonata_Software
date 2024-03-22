@@ -1,0 +1,1002 @@
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NOTICE.TXT
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\appsettings.json
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.exe
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.deps.json
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.runtimeconfig.json
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.pdb
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Aspose.Slides.Cloud.Sdk.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Aspose.Slides.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Xceed.Document.NET5.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Xceed.Words.NET5.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.OOXML.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.OpenXml4Net.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.OpenXmlFormats.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EPPlus.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Forge.OpenAI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Java.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Reflection.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Runtime.JNI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Runtime.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.forms.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.io.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.layout.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.sign.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.svg.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.commons.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.html2pdf.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Web.Cors.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\OpenAI_API.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\OpenAI.API.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\OpenAI.ChatGpt.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\grizzly-framework-2.4.4.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\grizzly-http-2.4.4.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\grizzly-http-server-2.4.4.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\hppc-0.7.2.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-annotations-2.10.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-core-2.10.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-databind-2.10.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-module-jaxb-annotations-2.10.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.activation-api-1.2.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.annotation-api-1.3.5.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.inject-2.6.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.validation-api-2.0.2.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.ws.rs-api-2.1.6.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.xml.bind-api-2.3.2.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jcommander-1.78.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-client-2.30.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-common-2.30.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-container-grizzly2-http-2.30.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-entity-filtering-2.30.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-media-jaxb-2.30.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-media-json-jackson-2.30.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-server-2.30.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-fsa-2.1.7.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-fsa-builders-2.1.7.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-stemming-2.1.7.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-tools-2.1.7.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-brat-annotator-1.9.4.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-morfologik-addon-1.9.4.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-tools-1.9.4.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-uima-1.9.4.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\osgi-resource-locator-1.0.3.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Threading.AccessControl.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.Diagnostic.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.Helpers.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.Types.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.OpenAI.Api.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\linux-x64\native\libikvm-native.so
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x64\native\ikvm-native.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x86\native\ikvm-native.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Threading.AccessControl.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.csproj.AssemblyReference.cache
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.AssemblyInfoInputs.cache
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.AssemblyInfo.cs
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.csproj.CoreCompileInputs.cache
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.Query_Quasar_Bot_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.build.Query_Quasar_Bot_API.props
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Query_Quasar_Bot_API.props
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Query_Quasar_Bot_API.props
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\scopedcss\bundle\Query_Quasar_Bot_API.styles.css
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.csproj.CopyComplete
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\refint\Query_Quasar_Bot_API.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.pdb
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.genruntimeconfig.cache
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\ref\Query_Quasar_Bot_API.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Antlr4.Runtime.Standard.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Corpus.Core.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Corpus.Core.Plugin.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Text.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Tools.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Tools.Config.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Xml.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Xml.Extras.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Pythia.Cli.Core.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Pythia.Core.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Pythia.Core.Plugin.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\SimpleInjector.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Text.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Tools.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Tools.Config.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Xml.Extras.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Project_X\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Pythia.Core.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NOTICE.TXT
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\appsettings.json
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.exe
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.deps.json
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.runtimeconfig.json
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.pdb
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Antlr4.Runtime.Standard.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Aspose.Slides.Cloud.Sdk.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Aspose.Slides.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Corpus.Core.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Corpus.Core.Plugin.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Xceed.Document.NET5.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Xceed.Words.NET5.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.OOXML.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.OpenXml4Net.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.OpenXmlFormats.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EPPlus.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Forge.OpenAI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Text.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Tools.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Tools.Config.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Xml.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Xml.Extras.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Java.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Reflection.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Runtime.JNI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Runtime.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.forms.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.io.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.layout.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.sign.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.svg.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.commons.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.html2pdf.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Web.Cors.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\OpenAI_API.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\OpenAI.API.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\OpenAI.ChatGpt.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\grizzly-framework-2.4.4.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\grizzly-http-2.4.4.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\grizzly-http-server-2.4.4.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\hppc-0.7.2.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-annotations-2.10.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-core-2.10.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-databind-2.10.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-module-jaxb-annotations-2.10.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.activation-api-1.2.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.annotation-api-1.3.5.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.inject-2.6.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.validation-api-2.0.2.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.ws.rs-api-2.1.6.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.xml.bind-api-2.3.2.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jcommander-1.78.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-client-2.30.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-common-2.30.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-container-grizzly2-http-2.30.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-entity-filtering-2.30.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-media-jaxb-2.30.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-media-json-jackson-2.30.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-server-2.30.1.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-fsa-2.1.7.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-fsa-builders-2.1.7.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-stemming-2.1.7.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-tools-2.1.7.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-brat-annotator-1.9.4.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-morfologik-addon-1.9.4.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-tools-1.9.4.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-uima-1.9.4.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\osgi-resource-locator-1.0.3.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Pythia.Cli.Core.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Pythia.Core.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Pythia.Core.Plugin.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\SimpleInjector.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Threading.AccessControl.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.Diagnostic.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.Helpers.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.Types.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.OpenAI.Api.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Text.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Tools.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Tools.Config.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Xml.Extras.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Pythia.Core.resources.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\linux-x64\native\libikvm-native.so
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x64\native\ikvm-native.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x86\native\ikvm-native.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Threading.AccessControl.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.csproj.AssemblyReference.cache
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.AssemblyInfoInputs.cache
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.AssemblyInfo.cs
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.csproj.CoreCompileInputs.cache
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.Query_Quasar_Bot_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.build.Query_Quasar_Bot_API.props
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Query_Quasar_Bot_API.props
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Query_Quasar_Bot_API.props
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\scopedcss\bundle\Query_Quasar_Bot_API.styles.css
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.csproj.CopyComplete
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\refint\Query_Quasar_Bot_API.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.pdb
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.genruntimeconfig.cache
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\obj\Debug\net8.0\ref\Query_Quasar_Bot_API.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\v-shvaidyana\Desktop\Learning\Project_X\Query_Quasar_Bot\Query_Quasar_Bot_C#_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NOTICE.TXT
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\appsettings.json
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.exe
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.deps.json
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.runtimeconfig.json
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.pdb
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Antlr4.Runtime.Standard.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Aspose.Slides.Cloud.Sdk.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Aspose.Slides.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Corpus.Core.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Corpus.Core.Plugin.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Xceed.Document.NET5.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Xceed.Words.NET5.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.OOXML.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.OpenXml4Net.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.OpenXmlFormats.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EPPlus.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Forge.OpenAI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Text.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Tools.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Tools.Config.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Xml.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Xml.Extras.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Java.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Reflection.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Runtime.JNI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Runtime.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.forms.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.io.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.layout.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.sign.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.svg.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.commons.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.html2pdf.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Web.Cors.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\OpenAI_API.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\OpenAI.API.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\OpenAI.ChatGpt.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\grizzly-framework-2.4.4.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\grizzly-http-2.4.4.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\grizzly-http-server-2.4.4.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\hppc-0.7.2.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-annotations-2.10.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-core-2.10.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-databind-2.10.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-module-jaxb-annotations-2.10.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.activation-api-1.2.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.annotation-api-1.3.5.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.inject-2.6.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.validation-api-2.0.2.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.ws.rs-api-2.1.6.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.xml.bind-api-2.3.2.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jcommander-1.78.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-client-2.30.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-common-2.30.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-container-grizzly2-http-2.30.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-entity-filtering-2.30.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-media-jaxb-2.30.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-media-json-jackson-2.30.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-server-2.30.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-fsa-2.1.7.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-fsa-builders-2.1.7.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-stemming-2.1.7.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-tools-2.1.7.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-brat-annotator-1.9.4.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-morfologik-addon-1.9.4.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-tools-1.9.4.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-uima-1.9.4.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\osgi-resource-locator-1.0.3.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Pythia.Cli.Core.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Pythia.Core.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Pythia.Core.Plugin.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\SimpleInjector.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Threading.AccessControl.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.Diagnostic.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.Helpers.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.Types.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.OpenAI.Api.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Text.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Tools.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Tools.Config.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Xml.Extras.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Pythia.Core.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\linux-x64\native\libikvm-native.so
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x64\native\ikvm-native.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x86\native\ikvm-native.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Threading.AccessControl.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.csproj.AssemblyReference.cache
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.AssemblyInfoInputs.cache
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.AssemblyInfo.cs
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.csproj.CoreCompileInputs.cache
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.Query_Quasar_Bot_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.build.Query_Quasar_Bot_API.props
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Query_Quasar_Bot_API.props
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Query_Quasar_Bot_API.props
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\scopedcss\bundle\Query_Quasar_Bot_API.styles.css
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Qu.704523DB.Up2Date
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\refint\Query_Quasar_Bot_API.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.pdb
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.genruntimeconfig.cache
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Document-Search-Bot-main\Query_Quasar_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\ref\Query_Quasar_Bot_API.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NOTICE.TXT
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\appsettings.json
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.exe
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.deps.json
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.runtimeconfig.json
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Query_Quasar_Bot_API.pdb
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Antlr4.Runtime.Standard.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Aspose.Slides.Cloud.Sdk.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Aspose.Slides.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Corpus.Core.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Corpus.Core.Plugin.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Xceed.Document.NET5.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Xceed.Words.NET5.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.OOXML.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.OpenXml4Net.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\NPOI.OpenXmlFormats.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EPPlus.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Forge.OpenAI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Text.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Tools.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Tools.Config.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Xml.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Fusi.Xml.Extras.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Java.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Reflection.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Runtime.JNI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\IKVM.Runtime.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.forms.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.io.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.layout.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.sign.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.svg.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.commons.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\itext.html2pdf.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Web.Cors.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\OpenAI_API.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\OpenAI.API.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\OpenAI.ChatGpt.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\grizzly-framework-2.4.4.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\grizzly-http-2.4.4.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\grizzly-http-server-2.4.4.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\hppc-0.7.2.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-annotations-2.10.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-core-2.10.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-databind-2.10.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jackson-module-jaxb-annotations-2.10.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.activation-api-1.2.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.annotation-api-1.3.5.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.inject-2.6.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.validation-api-2.0.2.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.ws.rs-api-2.1.6.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jakarta.xml.bind-api-2.3.2.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jcommander-1.78.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-client-2.30.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-common-2.30.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-container-grizzly2-http-2.30.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-entity-filtering-2.30.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-media-jaxb-2.30.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-media-json-jackson-2.30.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\jersey-server-2.30.1.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-fsa-2.1.7.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-fsa-builders-2.1.7.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-stemming-2.1.7.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\morfologik-tools-2.1.7.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-brat-annotator-1.9.4.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-morfologik-addon-1.9.4.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-tools-1.9.4.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\opennlp-uima-1.9.4.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\osgi-resource-locator-1.0.3.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Pythia.Cli.Core.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Pythia.Core.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Pythia.Core.Plugin.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\SimpleInjector.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Threading.AccessControl.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.Diagnostic.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.Helpers.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.Types.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\Universe.OpenAI.Api.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Text.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Tools.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Tools.Config.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Fusi.Xml.Extras.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\it-IT\Pythia.Core.resources.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\linux-x64\native\libikvm-native.so
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x64\native\ikvm-native.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x86\native\ikvm-native.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Threading.AccessControl.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.csproj.AssemblyReference.cache
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.AssemblyInfoInputs.cache
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.AssemblyInfo.cs
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.csproj.CoreCompileInputs.cache
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.sourcelink.json
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.Query_Quasar_Bot_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.build.Query_Quasar_Bot_API.props
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Query_Quasar_Bot_API.props
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Query_Quasar_Bot_API.props
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\scopedcss\bundle\Query_Quasar_Bot_API.styles.css
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Qu.704523DB.Up2Date
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\refint\Query_Quasar_Bot_API.dll
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.pdb
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\Query_Quasar_Bot_API.genruntimeconfig.cache
+C:\Users\v_shi\Desktop\Sonata Software\Learning\Projects\Gen AI POC\Query_Bot_C-Sharp_API\Query_Quasar_Bot_API\obj\Debug\net8.0\ref\Query_Quasar_Bot_API.dll
